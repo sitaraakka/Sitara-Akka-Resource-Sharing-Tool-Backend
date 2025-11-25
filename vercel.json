@@ -8,9 +8,6 @@
   ],
   "functions": {
     "dist/index.js": {
-      "maxDuration": 10,
-      "maxMemory": 1024,
-      "maxPayload": 100
     }
   },
   "routes": [
